@@ -8,3 +8,7 @@ Because I have had this idea for a while space is something I am deeply captivat
 - Research Django API creation
 - Research React and how to implement front end of application
 - Make a design prototype in Figma
+
+## Packages
+- django
+- djangorestframework

@@ -18,5 +18,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("", include("expanse_api.urls")),
+    path("", include("idle_expanse_api.urls")),
 ]
